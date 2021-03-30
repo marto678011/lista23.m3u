@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,=== Latino ===
 http://admin-mainpanel.club:8080/jesus/jesus/1427
 #EXTINF:-1,Latin: A&E
